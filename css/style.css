@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background: rgb(203,204,199);
+    height: 100vh;
+    
+    
+}
+
+.whole_div{
+    height: 100%;
+    /* width: 100%; */
+    text-align: center;
+    padding-top: 50px;
+}
+form{
+    width: 100%;
+}
+form div{
+    padding: 4px;
+}
+form input{
+    width: 40px;
+    
+}
+
+.submit_btn{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+.submit_btn input{
+    background: rgb(134, 133, 131);
+}
+.submit_btn input:hover{
+    background: rgb(68, 68, 102);
+}
+
